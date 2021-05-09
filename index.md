@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# Welcome to RH Apps site
 
-You can use the [editor on GitHub](https://github.com/rh-apps/rh-apps.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+We provide mobile application for user around the world. please find below our app portfolio. any inquiry or feature request, or perhaps new app ideas please do not hesitate to [Contact Us](mailto:rh-apps@protonmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My-Gig-Profile
 
-### Markdown
+Create your gig profile on this modern gig economy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Are you the type that live from work to work? doing freelance and gig or short contract?
+are you designer? blue collar worker? sales person? software developer?
+individual consultant? small business / shop owner? or service provider?
 
-```markdown
-Syntax highlighted code block
+This app got you covered to assist in your work life on this modern gig economy.
+It allows you to share your business contact and portfolio to potential clients and friends.
 
-# Header 1
-## Header 2
-### Header 3
+This app had the following features:
+* Setup your profile & products/services
+* Easily share your gig contact to your friends and clients
+* Easily share your product & service to your friends and clients
+* Setup reminder for you to share and post your product & service with your friends and clients
+* Generate a full gig contact with all your product & services in PDF and share it with your friends and clients
 
-- Bulleted
-- List
+[![My-Gig-Profile](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=m.co.rh.id.my_gig_profile)
 
-1. Numbered
-2. List
+## Smart-Test
 
-**Bold** and _Italic_ and `Code` text
+Are you a teacher? or a tutor? or a sales/marketing person? or scientist? or maybe a college / school student? or managers / executives ?
 
-[Link](url) and ![Image](src)
-```
+Often times teacher need to write and manage questions for test for their students,
+A tutor for writing test or quizzes for the tutelage, a sales/marketing person for their survey, a scientist with survey or questionnaire, managers / executives preparing written interview questions,
+or even students for creating their survey questions.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+It would be nice if there is an app for easily manage all of that.
 
-### Jekyll Themes
+Introducing Smart-Test an app for managing questions in your device.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rh-apps/rh-apps.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Create, edit, update, delete questions to be used for test, quizzes, questionnaires, survey form, and many
+* Generate, view, and share documents for your test, quizzes, questionnaires, or survey form
+* Support 3 types of questions, multiple choices with one answer, multiple choices with multiple answers, and essay question
+* Support export to Word Document (DOCX) & PDF files
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Supported export template languages:
+* English
+* Indonesia
+* Malay
+* Chinese
+* Filipino
+* Hindi
+* Tamil
+* Sinhala
+
+[![Smart-Test](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=m.a.co.id.rh.smarttest)
+
+
+## Pandemic-Alert
+
+A utility app to subscribe and notified with pandemic cases around the world.
+
+This app will notify you on total cases, total death, and total recover of current pandemic and notify you on any changes
+
+* Support current pandemic case and will be updated for future pandemic as well
+* Support more than 100 countries
+
+[![Pandemic-Alert](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=m.a.co.id.rh.pandemicalert)
