@@ -2,6 +2,22 @@
 
 We provide mobile application for user around the world. please find below our app portfolio. any inquiry or feature request, or perhaps new app ideas please do not hesitate to [Contact Us](mailto:rh-apps@protonmail.com)
 
+## My-Personal-Stuff
+<img src="https://rh-apps.github.io/assets/images/logo-my_personal_stuff.png" width="144"/>
+
+Sometimes we forgot where to put something somewhere or forgot when something is going to expire.
+
+it could be your cooked food that have short expiry or maybe raw meat or chicken that we forgot to cook or even dispose from refrigerator, or could be anything with expiry or need action that we store somewhere and forgot about it.
+
+Having calendar events to all of these doesn't really solve problems, because it can be a lot of things to put in and you do not want to mix important events with your raw meat expiration events. This app is something similar to warehouse logistics system but more to personal and in a very small scale for personal use.
+
+Features of this app:
+* Allow user to manage item easily
+* Get notification reminder of when the item almost expire
+* Allow user to manage the amount and reminder of the items to keep track of the item.
+
+<a href='https://play.google.com/store/apps/details?id=m.co.rh.id.my_personal_stuff&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
 ## My-Gig-Profile
 <img src="https://rh-apps.github.io/assets/images/logo-my_gig_profile.png" width="144"/>
 
