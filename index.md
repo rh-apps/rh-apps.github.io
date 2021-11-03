@@ -14,7 +14,7 @@ A simple and easy to use RSS aggregator that deliver news to your smartphone
 </ul>
 
 Download and install from Github:<br/>
-Make sure to download "app-release.apk" file recommended from v1.1.0 release. this is production ready version
+Make sure to download "app-release.apk" file start from v1.1.0 release and above version. this is production ready version
 
 <a href='https://github.com/rh-id/a-news-provider/releases'>Download on Github</a>
 
