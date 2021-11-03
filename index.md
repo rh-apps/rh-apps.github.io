@@ -2,6 +2,22 @@
 
 We provide mobile application for user around the world. please find below our app portfolio. any inquiry or feature request, or perhaps new app ideas please do not hesitate to [Contact Us](mailto:rh-apps@protonmail.com)
 
+## News Provider (Open Source)
+<img src="https://rh-apps.github.io/assets/images/logo-a_news_provider.png" width="144"/>
+
+A simple and easy to use RSS aggregator that deliver news to your smartphone
+<ul>
+  <li>Easily add new feed using shortcut</li>
+  <li>Support background sync</li>
+  <li>Simple interface to add and read your news</li>
+  <li>Support dark mode and light mode</li>
+</ul>
+
+Download and install from Github:<br/>
+Make sure to download "app-release.apk" file recommended from v1.1.0 release. this is production ready version
+
+<a href='https://github.com/rh-id/a-news-provider/releases'>Download on Github</a>
+
 ## My-Personal-Stuff
 <img src="https://rh-apps.github.io/assets/images/logo-my_personal_stuff.png" width="144"/>
 
