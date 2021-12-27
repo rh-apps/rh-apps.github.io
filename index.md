@@ -2,6 +2,27 @@
 
 We provide mobile application for user around the world. please find below our app portfolio. any inquiry or feature request, or perhaps new app ideas please do not hesitate to [Contact Us](mailto:rh-apps@protonmail.com)
 
+## Flash Deck (Open Source)
+<img src="https://rh-apps.github.io/assets/images/logo-a_flash_deck.png" width="144"/>
+
+A simple and easy to use flash card to help you memorize and learn
+<ul>
+  <li>Easily add deck and cards</li>
+  <li>Add notification timer to periodically asking you question</li>
+  <li>Support dark mode and light mode</li>
+  <li>Easily export & share your decks to your friends</li>
+</ul>
+
+Download and install from Github:<br/>
+Make sure to download "app-release.apk"
+
+<a href='https://github.com/rh-id/a-flash-deck/releases'>Download on Github</a>
+
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="120">](https://f-droid.org/packages/m.co.rh.id.a_flash_deck/)
+
 ## News Provider (Open Source)
 <img src="https://rh-apps.github.io/assets/images/logo-a_news_provider.png" width="144"/>
 
@@ -17,6 +38,11 @@ Download and install from Github:<br/>
 Make sure to download "app-release.apk" file start from v1.1.0 release and above version. this is production ready version
 
 <a href='https://github.com/rh-id/a-news-provider/releases'>Download on Github</a>
+
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="120">](https://f-droid.org/packages/m.co.rh.id.a_news_provider/)
 
 ## My-Personal-Stuff
 <img src="https://rh-apps.github.io/assets/images/logo-my_personal_stuff.png" width="144"/>
