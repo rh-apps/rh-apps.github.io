@@ -16,7 +16,7 @@ A simple and easy to use personal medical notes.
 Download and install from Github:<br/>
 Make sure to download "app-release.apk"
 
-<a href='https://github.com/rh-id/a-medic_log/releases'>Download on Github</a>
+<a href='https://github.com/rh-id/a-medic-log/releases'>Download on Github</a>
      
 ## Flash Deck (Open Source)
 <img src="https://rh-apps.github.io/assets/images/logo-a_flash_deck.png" width="144"/>
