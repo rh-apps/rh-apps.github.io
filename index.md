@@ -2,6 +2,22 @@
 
 We provide mobile application for user around the world. please find below our app portfolio. any inquiry or feature request, or perhaps new app ideas please do not hesitate to [Contact Us](mailto:rh-apps@protonmail.com)
 
+## Medic Log (Open Source)
+<img src="https://rh-apps.github.io/assets/images/logo-a_medic_log.png" width="144"/>
+
+A simple and easy to use personal medical notes.
+<ul>
+  <li>Easily add your medical notes</li>
+  <li>Multiple profile to keep track elderly and family members medical history</li>
+  <li>Add medicine information and medicine reminder to notify you to take medicine</li>
+  <li>Support dark mode and light mode</li>
+</ul>
+
+Download and install from Github:<br/>
+Make sure to download "app-release.apk"
+
+<a href='https://github.com/rh-id/a-medic_log/releases'>Download on Github</a>
+     
 ## Flash Deck (Open Source)
 <img src="https://rh-apps.github.io/assets/images/logo-a_flash_deck.png" width="144"/>
 
