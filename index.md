@@ -17,6 +17,11 @@ Download and install from Github:<br/>
 Make sure to download "app-release.apk"
 
 <a href='https://github.com/rh-id/a-medic-log/releases'>Download on Github</a>
+
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="120">](https://f-droid.org/packages/m.co.rh.id.a_medic_log/)
      
 ## Flash Deck (Open Source)
 <img src="https://rh-apps.github.io/assets/images/logo-a_flash_deck.png" width="144"/>
