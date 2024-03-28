@@ -2,6 +2,25 @@
 
 We provide mobile application for user around the world. please find below our app portfolio. any inquiry or feature request, or perhaps new app ideas please do not hesitate to [Contact Us](mailto:rh-apps@protonmail.com)
 
+## Jarwis (Open Source)
+<img src="https://rh-apps.github.io/assets/images/logo-a_jarwis.png" width="144"/>
+The power of AI in the palm of my hands!
+
+This is AI utility app for Android device, it basically uses AI model directly on-device to help on performing some tasks.
+
+Features
+- Face Detection & Recognition
+    1. Detect and add blur effect on people face and export the result to gallery
+    2. Detect and select which face to be blurred and export the result to gallery
+- Neural Style Transfer
+    1. Select neural style transfer theme to apply to the image(s) and export the result to gallery. (Themes: Mosaic,Candy,Rain Princess,Udnie,Pointilism)
+
+
+Download and install from Github:<br/>
+Make sure to download "app-release.apk"
+
+<a href='https://github.com/rh-id/a-jarwis/releases'>Download on Github</a>
+
 ## Personal Stuff (Open Source)
 <img src="https://rh-apps.github.io/assets/images/logo-a_personal_stuff.png" width="144"/>
 
