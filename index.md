@@ -4,6 +4,7 @@ We provide mobile application for user around the world. please find below our a
 
 ## Jarwis (Open Source)
 <img src="https://rh-apps.github.io/assets/images/logo-a_jarwis.png" width="144"/>
+
 The power of AI in the palm of my hands!
 
 This is AI utility app for Android device, it basically uses AI model directly on-device to help on performing some tasks.
