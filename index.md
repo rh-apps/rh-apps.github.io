@@ -1,6 +1,6 @@
 # Welcome to RH Apps site
 
-We provide mobile application for user around the world. please find below our app portfolio. any inquiry or feature request, or perhaps new app ideas please do not hesitate to [Contact Us](mailto:rh-apps@protonmail.com)
+We provide mobile application for user around the world. please find below our app portfolio. any inquiry or feature request, or perhaps new app ideas please do not hesitate to [Contact Us](mailto:rh-apps@proton.me)
 
 ## Jarwis (Open Source)
 <img src="https://rh-apps.github.io/assets/images/logo-a_jarwis.png" width="144"/>
