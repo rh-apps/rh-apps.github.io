@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="0FOaE6OhGSJzwp5ITfEET7Q6O2cgSkP4zunXEw5EJ4E" />
+
 # Welcome to RH Apps site
 
 We provide mobile application for user around the world. please find below our app portfolio. any inquiry or feature request, or perhaps new app ideas please do not hesitate to [Contact Us](mailto:rh-apps@proton.me)
